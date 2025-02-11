@@ -5,7 +5,9 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     padding: 50,
-    backgroundColor: '#fff',
+    alignItems: 'flex-end',
+    justifyContent: 'flex-end',
+    backgroundColor: 'black',
   },
   bigBlue: {
     color: 'blue',
