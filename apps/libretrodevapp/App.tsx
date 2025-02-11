@@ -7,7 +7,6 @@ const styles = StyleSheet.create({
     padding: 50,
     alignItems: 'flex-end',
     justifyContent: 'flex-end',
-    backgroundColor: 'black',
   },
   bigBlue: {
     color: 'blue',
